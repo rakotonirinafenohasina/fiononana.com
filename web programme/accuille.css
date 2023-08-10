@@ -1,0 +1,73 @@
+body{
+ 
+    min-height: 100vh;
+} 
+.presentation{
+    color: brown;
+    font-size: 50px;
+    margin-left: 300px;
+    margin-top: 0%;
+    
+}
+table, th, td {
+    border: 2px solid rgb(17, 17, 17);
+    margin: center;    
+
+    }
+    .table{
+        margin-top: 50px;
+       margin-right: 200px;
+       margin-top: 5%;
+       
+    }
+    .table1{
+      font-style: italic;
+      margin-left: 130px;
+      background-color: blueviolet;
+     
+    }
+    .paragraphe1{
+        font-size:50px ;
+        color: rgb(10, 9, 9);
+         margin-left: 190px;
+        display: block;
+        color: brown;
+    }
+    .paragraphe2{
+        font-size:50px ;
+        color: rgb(10, 9, 9);
+         margin-left: 190px;
+        display: block;
+        color: brown;
+    }
+    .border1{
+
+    
+        margin-left:140px ;
+        margin-right:150px ;
+        margin-bottom:150px ;
+        border: 5px dashed rgb(29, 26, 26); 
+        padding-bottom:100px ;
+        
+    }
+    .color2{
+        background-color: aqua;
+    }
+    .color3{
+        background-color: blue;
+    }
+    .colordutext {
+        color: rgb(62, 14, 153);
+        margin-top: 10%;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    .pagesuivante{
+      margin-top: 20%;
+    }
+    .pageprecedents{
+        margin-top: 21px;
+        text-align: center;
+        text-transform: uppercase;
+    }
